@@ -1,0 +1,12 @@
+body {
+  padding-bottom:50px;
+}
+
+.high-value {
+  /*font-weight: bold;*/
+  color: green;
+}
+.low-value {
+  /*font-style: italic;*/
+  color: red;
+}

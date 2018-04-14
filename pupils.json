@@ -1,0 +1,249 @@
+﻿[
+  {
+    "PupilId": 1,
+    "FullName": "Mike Mills",
+    "group": {
+      "Id": 1,
+      "Name": "Group 1"
+    },
+    "cases": [
+      {
+        "Id": 1,
+        "Name": "Case 1",
+        "Status": "true",
+        "Kind": "1",
+        "MarkAut": "1",
+        "Mark": "1",
+        "ReportStatus": "1",
+        "VoteStatus": "1",
+        "VoteRating": "9.5",
+        "lessons": [
+          {
+            "lesson": {
+              "Id": 1,
+              "Name": "lesson 1"
+            },
+            "Color": "#FF8040",
+            "Status": "1",
+            "StartTime": "2018-04-10T00:00:00.000Z",
+            "EndTime": "",
+            "MarkAut": "3",
+            "TeacherMark": "2"
+          },
+          {
+            "lesson": {
+              "Id": 2,
+              "Name": "lesson 2"
+            },
+            "Color": "#FF0000",
+            "Status": "1",
+            "StartTime": "2018-04-10T00:00:00.000Z",
+            "EndTime": "2018-06-30",
+            "MarkAut": "3",
+            "TeacherMark": "2"
+          }
+        ]
+      },
+      {
+        "Id": 2,
+        "Name": "Case 2",
+        "Status": "false",
+        "Kind": "1",
+        "MarkAut": "1",
+        "Mark": "1",
+        "ReportStatus": "1",
+        "VoteStatus": "1",
+        "lessons": [
+          {
+            "lesson": {
+              "Id": 1,
+              "Name": "lesson 1"
+            },
+            "Color": "#FF0000",
+            "Status": "1",
+            "StartTime": "2018-04-10T00:00:00.000Z",
+            "EndTime": "",
+            "MarkAut": "3",
+            "TeacherMark": "2"
+          },
+          {
+            "lesson": {
+              "Id": 2,
+              "Name": "lesson 2"
+            },
+            "Color": "#FF0000",
+            "Status": "1",
+            "StartTime": "2018-04-10T00:00:00.000Z",
+            "EndTime": "2018-06-30",
+            "MarkAut": "3",
+            "TeacherMark": "2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "PupilId": 2,
+    "FullName": "Michael Mann",
+    "group": {
+      "Id": 2,
+      "Name": "Group 2"
+    },
+    "cases": [
+      {
+        "Id": 1,
+        "Name": "Case 1",
+        "Status": "true",
+        "Kind": "1",
+        "MarkAut": "1",
+        "Mark": "1",
+        "ReportStatus": "1",
+        "VoteStatus": "1",
+        "lessons": [
+          {
+            "lesson": {
+              "Id": 1,
+              "Name": "lesson 1"
+            },
+            "Color": "#00E800",
+            "Status": "1",
+            "StartTime": "2018-04-10T00:00:00.000Z",
+            "EndTime": "",
+            "MarkAut": "3",
+            "TeacherMark": "2"
+          },
+          {
+            "lesson": {
+              "Id": 2,
+              "Name": "lesson 2"
+            },
+            "Color": "#00E800",
+            "Status": "1",
+            "StartTime": "2018-04-10T00:00:00.000Z",
+            "EndTime": "2018-06-30",
+            "MarkAut": "3",
+            "TeacherMark": "2"
+          }
+        ]
+      },
+      {
+        "Id": 2,
+        "Name": "Case 2",
+        "Status": "false",
+        "Kind": "1",
+        "MarkAut": "1",
+        "Mark": "1",
+        "ReportStatus": "1",
+        "VoteStatus": "1",
+        "lessons": [
+          {
+            "lesson": {
+              "Id": 1,
+              "Name": "lesson 1"
+            },
+            "Color": "#FF0000",
+            "Status": "1",
+            "StartTime": "2018-04-10T00:00:00.000Z",
+            "EndTime": "",
+            "MarkAut": "3",
+            "TeacherMark": "2"
+          },
+          {
+            "lesson": {
+              "Id": 2,
+              "Name": "lesson 2"
+            },
+            "Color": "#FF0000",
+            "Status": "1",
+            "StartTime": "2018-04-10T00:00:00.000Z",
+            "EndTime": "2018-06-30",
+            "MarkAut": "3",
+            "TeacherMark": "2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "PupilId": 3,
+    "FullName": "Alan Mask",
+    "group": {
+      "Id": 3,
+      "Name": "Group 3"
+    },
+    "cases": [
+      {
+        "Id": 1,
+        "Name": "Case 1",
+        "Status": "true",
+        "Kind": "1",
+        "MarkAut": "1",
+        "Mark": "1",
+        "ReportStatus": "1",
+        "VoteStatus": "1",
+        "lessons": [
+          {
+            "lesson": {
+              "Id": 1,
+              "Name": "lesson 1"
+            },
+            "Color": "#FF8040",
+            "Status": "1",
+            "StartTime": "2018-04-10T00:00:00.000Z",
+            "EndTime": "",
+            "MarkAut": "3",
+            "TeacherMark": "2"
+          },
+          {
+            "lesson": {
+              "Id": 2,
+              "Name": "lesson 2"
+            },
+            "Color": "#FF8040",
+            "Status": "1",
+            "StartTime": "2018-04-10T00:00:00.000Z",
+            "EndTime": "2018-06-30",
+            "MarkAut": "3",
+            "TeacherMark": "2"
+          }
+        ]
+      },
+      {
+        "Id": 2,
+        "Name": "Case 2",
+        "Status": "false",
+        "Kind": "1",
+        "MarkAut": "1",
+        "Mark": "1",
+        "ReportStatus": "1",
+        "VoteStatus": "1",
+        "lessons": [
+          {
+            "lesson": {
+              "Id": 1,
+              "Name": "lesson 1"
+            },
+            "Color": "#FF8040",
+            "Status": "1",
+            "StartTime": "2018-04-10T00:00:00.000Z",
+            "EndTime": "",
+            "MarkAut": "3",
+            "TeacherMark": "2"
+          },
+          {
+            "lesson": {
+              "Id": 2,
+              "Name": "lesson 2"
+            },
+            "Color": "#FF8040",
+            "Status": "1",
+            "StartTime": "2018-04-10T00:00:00.000Z",
+            "EndTime": "2018-06-30",
+            "MarkAut": "3",
+            "TeacherMark": "2"
+          }
+        ]
+      }
+    ]
+  }
+]
